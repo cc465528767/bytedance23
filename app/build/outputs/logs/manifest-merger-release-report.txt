@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:2:1-48:12
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/ucrop-v2.1.9.aar/bae74dc1a20ac7afec7549c230e95036/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4020322a4a9a9b97e7cd9b5dec39d9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lucy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/08eb39178af29e72a52cb29df13d107d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/f3c6da84a876e527a0d4719fb6c3a31b/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/521a4c1ba617c65742fffcaf28555450/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7f0496aa186e591492dfe70db9f3850b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bad627349f4806242366dae944b02f32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a4bfb40f593143a4b8177ae37a26b55f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/35241a1ee9a2241222513fd4849c5725/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ec93e46678f3c1832e97de02cbe1bb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4e9a20d30866a515a89d59247800e60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/710b63438b2d00fdb3916d587ef6ce93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b1d743a182c50ec062e52f7d32c9c72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dce29cdf1b1c0ceaf0b4bea081ab981b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5ef8136e3288d7c4391e9fdbeae8dda4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4a0578cce05ebe6812d7e394bece81af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/92a67365a6c4233cbef3acef98388ba1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/84d75e9ac235bcfdf7fe064bf350eb4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c79006073bc4ebdb5c04d5238405051/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85dbc3c12727ada6ba951027de94f8d8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3a58c20c89c3d860915edc2a972dbee0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7aa35bd79d1cb35057ee2caf3e3aaad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bdf0055af2b9825bf83a71e06df9776b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9c74439b6d867986cbb8afb00b3f80ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cf9f5b74fc3ca284c15b0bcf44ffb1a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/eb588484c3165b98a52280245cd8a077/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4c9e504fcbe53629b4dded287a6a9964/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e1ff90e0029ec85d268ccf32837c0619/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bcab21ff6c4010b1fa703178358ee13a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/66dfcb8b2b97de000d7207401ee79658/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/5aa6dacef130e801a73a275618aa8e96/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/cb46eedfdf736dff4a4869a172e22959/AndroidManifest.xml:15:1-21:12
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:58-113
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:10:5-36:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:11:5-46:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:11:5-46:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lucy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/08eb39178af29e72a52cb29df13d107d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lucy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/08eb39178af29e72a52cb29df13d107d/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/f3c6da84a876e527a0d4719fb6c3a31b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/f3c6da84a876e527a0d4719fb6c3a31b/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c79006073bc4ebdb5c04d5238405051/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c79006073bc4ebdb5c04d5238405051/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85dbc3c12727ada6ba951027de94f8d8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85dbc3c12727ada6ba951027de94f8d8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/5aa6dacef130e801a73a275618aa8e96/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/5aa6dacef130e801a73a275618aa8e96/AndroidManifest.xml:9:5-20
+	android:screenOrientation
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:16:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c79006073bc4ebdb5c04d5238405051/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:17:9-44
+activity#com.bytedance.android.lesson.restapi.solution.MainActivity
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.bytedance.android.lesson.restapi.solution.Solution2C1Activity
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:28:19-55
+	android:label
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:29:19-56
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:27:19-54
+activity#com.bytedance.android.lesson.restapi.solution.Solution2C2Activity
+ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:screenOrientation
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:33:19-55
+	android:label
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:34:19-56
+	android:name
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml:32:19-54
+uses-sdk
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/ucrop-v2.1.9.aar/bae74dc1a20ac7afec7549c230e95036/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/ucrop-v2.1.9.aar/bae74dc1a20ac7afec7549c230e95036/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4020322a4a9a9b97e7cd9b5dec39d9d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4020322a4a9a9b97e7cd9b5dec39d9d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lucy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/08eb39178af29e72a52cb29df13d107d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/lucy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/08eb39178af29e72a52cb29df13d107d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/f3c6da84a876e527a0d4719fb6c3a31b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/f3c6da84a876e527a0d4719fb6c3a31b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/521a4c1ba617c65742fffcaf28555450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/521a4c1ba617c65742fffcaf28555450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7f0496aa186e591492dfe70db9f3850b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7f0496aa186e591492dfe70db9f3850b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bad627349f4806242366dae944b02f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bad627349f4806242366dae944b02f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a4bfb40f593143a4b8177ae37a26b55f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a4bfb40f593143a4b8177ae37a26b55f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/35241a1ee9a2241222513fd4849c5725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/35241a1ee9a2241222513fd4849c5725/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ec93e46678f3c1832e97de02cbe1bb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ec93e46678f3c1832e97de02cbe1bb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4e9a20d30866a515a89d59247800e60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a4e9a20d30866a515a89d59247800e60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/710b63438b2d00fdb3916d587ef6ce93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/710b63438b2d00fdb3916d587ef6ce93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b1d743a182c50ec062e52f7d32c9c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/9b1d743a182c50ec062e52f7d32c9c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dce29cdf1b1c0ceaf0b4bea081ab981b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dce29cdf1b1c0ceaf0b4bea081ab981b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5ef8136e3288d7c4391e9fdbeae8dda4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5ef8136e3288d7c4391e9fdbeae8dda4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4a0578cce05ebe6812d7e394bece81af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/4a0578cce05ebe6812d7e394bece81af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/92a67365a6c4233cbef3acef98388ba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/92a67365a6c4233cbef3acef98388ba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/84d75e9ac235bcfdf7fe064bf350eb4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/84d75e9ac235bcfdf7fe064bf350eb4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c79006073bc4ebdb5c04d5238405051/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c79006073bc4ebdb5c04d5238405051/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85dbc3c12727ada6ba951027de94f8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/85dbc3c12727ada6ba951027de94f8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3a58c20c89c3d860915edc2a972dbee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3a58c20c89c3d860915edc2a972dbee0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7aa35bd79d1cb35057ee2caf3e3aaad6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7aa35bd79d1cb35057ee2caf3e3aaad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bdf0055af2b9825bf83a71e06df9776b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bdf0055af2b9825bf83a71e06df9776b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9c74439b6d867986cbb8afb00b3f80ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9c74439b6d867986cbb8afb00b3f80ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cf9f5b74fc3ca284c15b0bcf44ffb1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cf9f5b74fc3ca284c15b0bcf44ffb1a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/eb588484c3165b98a52280245cd8a077/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/eb588484c3165b98a52280245cd8a077/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4c9e504fcbe53629b4dded287a6a9964/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4c9e504fcbe53629b4dded287a6a9964/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e1ff90e0029ec85d268ccf32837c0619/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e1ff90e0029ec85d268ccf32837c0619/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bcab21ff6c4010b1fa703178358ee13a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bcab21ff6c4010b1fa703178358ee13a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/66dfcb8b2b97de000d7207401ee79658/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/66dfcb8b2b97de000d7207401ee79658/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/5aa6dacef130e801a73a275618aa8e96/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/lucy/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/5aa6dacef130e801a73a275618aa8e96/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/cb46eedfdf736dff4a4869a172e22959/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/lucy/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/cb46eedfdf736dff4a4869a172e22959/AndroidManifest.xml:19:5-43
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucy/Desktop/Chapter4Classwork-fill_in_the_blanks_github/app/src/main/AndroidManifest.xml
+provider#com.luck.picture.lib.PictureFileProvider
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:13:13-68
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:17:13-19:54
+	android:resource
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:19:17-51
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:18:17-67
+activity#com.luck.picture.lib.PictureSelectorActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:22:9-25:55
+	android:windowSoftInputMode
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:25:13-52
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:24:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:23:13-72
+activity#com.luck.picture.lib.PicturePreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:26:9-28:53
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:28:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:27:13-71
+activity#com.luck.picture.lib.PictureVideoPlayActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:29:9-33:53
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:32:13-47
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:31:13-74
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:33:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:30:13-73
+activity#com.luck.picture.lib.PictureExternalPreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:34:9-36:53
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:36:13-50
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:35:13-79
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:37:9-39:72
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:38:13-60
+activity#com.yalantis.ucrop.PictureMultiCuttingActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:40:9-42:72
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:42:13-69
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:41:13-74
+activity#com.luck.picture.lib.PicturePlayAudioActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:43:9-45:72
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:v2.1.9] /Users/lucy/.gradle/caches/transforms-1/files-1.1/picture_library-v2.1.9.aar/d260eefc593692d8ae3c755f218b8002/AndroidManifest.xml:44:13-73
